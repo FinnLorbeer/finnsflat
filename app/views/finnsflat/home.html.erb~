@@ -3,7 +3,7 @@
     <div id="myCarousel" class="carousel slide">
       <div class="carousel-inner">
         <div class="item active">
-					<%= image_tag "result_pic.png" %>
+					<%= image_tag "DE_Berlin_4UZSLIRJ_GV-12.png" %>
           <div class="container">
             <div class="carousel-caption">
               <h1>Example headline.</h1>
