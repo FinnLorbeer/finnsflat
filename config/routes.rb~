@@ -1,6 +1,8 @@
 Finnsflat::Application.routes.draw do
 
 
+  root to: 'finnsflat#home'
+
   get "finnsflat/contact"
 
   get "finnsflat/about"

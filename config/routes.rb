@@ -4,10 +4,9 @@ Finnsflat::Application.routes.draw do
   root to: 'finnsflat#home'
 
   get "finnsflat/contact"
-
-  get "finnsflat/about"
-
-  get "finnsflat/home"
+	match '/contact', to: 'finnsflat#contact'
+	match '/about', to: 'finnsflat#about'
+	match '/home', to: 'finnsflat#home'
 
 
   # The priority is based upon order of creation:

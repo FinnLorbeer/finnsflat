@@ -60,21 +60,21 @@
       <div class="row">
         <div class="span4">
 					<%= image_tag "feature2.png", :class => 'img-circle' %>
-          <h2>Heading</h2>
-          <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna, vel scelerisque nisl consectetur et.</p>
+          <h2>Unique Decoration</h2>
+          <p>The decoration items are collected over many years and arranged to perfectly match up in this fabulous place. Find a colourfull, crazy and mind blowing decoration in this special appartment.</p>
         </div><!-- /.span4 -->
         <div class="span4">
 					<%= image_tag "DE_Berlin_4UZSLIRJ_GV-14.png", :class => 'img-circle' %>
-          <h2>Heading</h2>
-          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+          <h2>Tiled Stove</h2>
+          <p>Find a full operational furnace in the living room that keeps you warm and the whole place cozy even for the coldest winter. Keep warm while lowest winter temperatures persist outside.</p>
         </div><!-- /.span4 -->
         <div class="span4">
 					<%= image_tag "feature.png", :class => 'img-circle' %>
-          <h2>Heading</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+          <h2>Crazy Gadgets</h2>
+          <p>Staying at the place of a physicist you will find yourself face to face with a hand made unique sound system capable of 25.000 songs and remote controled via app by your smartphone. Welcome to the next level!</p>
         </div><!-- /.span4 -->
       </div><!-- /.row -->
-			<div class="row" style="text-align: center;">
+			<div class="row" style="text-align: center; margin-top:50px;">
 				          <p><a class="btn btn-primary" href="#">see flat on Wimdu &raquo;</a></p>
 			</div>
 
@@ -85,24 +85,24 @@
 
       <div class="featurette">
 					<%= image_tag "DE_Berlin_4UZSLIRJ_GV-15.png", :class => 'featurette-image pull-right img-circle' %>
-        <h2 class="featurette-heading">First featurette headling. <span class="muted">It'll blow your mind.</span></h2>
-        <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+        <h2 class="featurette-heading">Loft Bed. <span class="muted">It'll blow your mind.</span></h2>
+        <p class="lead">A perfect fit handmade loft bed is the only place to sleep with nicest dreams. High rooms in the apparment give lots of space above and below the bed so that you can relax best while sleeping. This will boost your energies for the next day!</p>
       </div>
 
       <hr class="featurette-divider">
 
       <div class="featurette">
-					<%= image_tag "DE_Berlin_4UZSLIRJ_GV-23.png", :class => 'featurette-image pull-left img-circle' %>
-        <h2 class="featurette-heading">Oh yeah, it's that good. <span class="muted">See for yourself.</span></h2>
-        <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+					<%= image_tag "DE_Berlin_4UZSLIRJ_GV-23.png", :class => 'featurette-image pull-right img-circle' %>
+        <h2 class="featurette-heading">Oh yeah, it's that good.</br><span class="muted">In the kitchen.</span></h2>
+        <p class="lead">The kitchen provides you with whatever you can imagine to need. Of course it has hand collected unique items beautifully arranged, like a radio from the 50s, a tea kettle and tin plate signs all over the place.</p>
       </div>
 
       <hr class="featurette-divider">
 
       <div class="featurette">
-					<%= image_tag "DE_Berlin_4UZSLIRJ_GV-29.png", :class => 'featurette-image pull-right img-circle' %>
-        <h2 class="featurette-heading">And lastly, this one. <span class="muted">Checkmate.</span></h2>
-        <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+					<%= image_tag "DE_Berlin_4UZSLIRJ_GV-29.png", :class => 'featurette-image pull-left img-circle' %>
+        <h2 class="featurette-heading">And lastly, the Showerroom. <span class="muted">Overwhelming.</span></h2>
+        <p class="lead">Having the fishermans item next to the door and shower one feels to be in the perfect place for refreshment. The bathroom is perfect to fullfill all needs while not wasting any place in the appartment.</p>
       </div>
 
       <hr class="featurette-divider">
