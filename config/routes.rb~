@@ -1,11 +1,12 @@
 Finnsflat::Application.routes.draw do
+
+
   get "finnsflat/contact"
 
   get "finnsflat/about"
 
   get "finnsflat/home"
 
-  get "finnsflat/help"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
