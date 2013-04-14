@@ -1,5 +1,5 @@
 @import "bootstrap";
-
+@import "bootstrap-responsive";
 
 
     /* GLOBAL STYLES
@@ -48,7 +48,7 @@
 
     /* Navbar links: increase padding for taller navbar */
     .navbar .nav > li > a {
-      padding: 15px 20px;
+      padding: 10px 50px;
     }
 
     /* Offset the responsive button for proper vertical alignment */
@@ -82,7 +82,7 @@
     }
 
     .carousel .item {
-      height: 800px;
+      height: 1000px;
     }
     .carousel img {
       position: absolute;
